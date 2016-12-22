@@ -22,3 +22,4 @@ export default class ReactNativePart extends React.Component {
 
 
 AppRegistry.registerComponent('ReactNativePart', () => ReactNativePart);
+
