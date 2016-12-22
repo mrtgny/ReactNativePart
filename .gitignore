@@ -1,4 +1,8 @@
 .DS_Store
 npm-debug.log
+ios
+__tests__
+android
+README.md
 node_modules
 .idea
